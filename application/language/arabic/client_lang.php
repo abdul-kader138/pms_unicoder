@@ -1,0 +1,59 @@
+<?php
+$lang['client_list'] = 'قائمة العملاء';
+$lang['all_client'] = 'جميع العملاء';
+$lang['name'] = 'اسم';
+$lang['client'] = 'عميل';
+$lang['clients'] = 'العملاء';
+$lang['client_status'] = 'نوع العميل';
+$lang['select'] = 'اختر';
+$lang['manage_client'] = 'إدارة العملاء';
+$lang['clients_registration'] = 'تسجيل العملاء';
+$lang['clients_registered'] = 'العملاء المسجلين';
+$lang['client_registered_successfully'] = 'عملية تسجيل ناجحة';
+$lang['activity_added_new_company'] = 'عميل جديد';
+$lang['activity_update_company'] = 'تحديث العميل';
+$lang['activity_update_contact'] = 'تحديث معلومات الاتصال';
+$lang['activity_added_new_contact'] = 'اضافة معلومات الاتصال';
+$lang['activity_deleted_contact'] = 'حذف الاتصال';
+$lang['delete_contact'] = 'العميل معلومات الاتصال المحذوفة بنجاح!';
+$lang['activity_deleted_client'] = 'تم حذف العميل بنجاح';
+$lang['delete_client'] = 'معلومات العميل المحذوفة بنجاح!';
+$lang['select_type'] = 'حدد نوع';
+$lang['client_contact'] = 'اتصال';
+$lang['hosting'] = 'استضافة';
+$lang['converted_from'] = 'نموذج تحويل';
+$lang['without_converted'] = 'دون تحويله';
+$lang['converted_client'] = 'الموظف المحول';
+$lang['business'] = 'اعمال';
+$lang['state'] = 'المنطقة';
+$lang['first_name'] = 'الاسم الاول';
+$lang['last_name'] = 'الاسم الاخير';
+$lang['toll_free'] = 'الهاتف';
+$lang['postal'] = 'الرمز البريدي';
+$lang['latitude'] = 'الاحداثية';
+$lang['longitude'] = 'الاحداثية';
+$lang['google_map'] = 'خريطة جوجل';
+$lang['fetch_from_google'] = 'احضار من جوجل';
+$lang['customer_fetch_lat_lng_usage'] = 'ملء العنوان، المدينة والبلد قبل الاحضار للحصول على أفضل نتيجة.';
+$lang['g_search_address_not_found'] = 'تعذر العثور على العنوان، يرجى إعادة المحاولة';
+$lang['group'] = 'مجموعة';
+$lang['filter_by'] = 'تصفية';
+$lang['update_client_status'] = 'تحديث حالة العميل';
+$lang['save_and_create_contact'] = 'حفظ و اضافة معلومات اتصال';
+$lang['map'] = 'خريطة';
+$lang['map_notice'] = 'أضف خط الطول وخط العرض في الملف الشخصي للعميل لعرض الخريطة هنا';
+$lang['setup_google_api_key_map'] = 'إعداد مفتاح واجهة برمجة التطبيقات جوجل من أجل عرض لخريطة العميل';
+$lang['google_api_key'] = 'مفتاح  تطبيق جوجل';
+$lang['added_by'] = 'مضاف بواسطة';
+$lang['activity_deleted_notes'] = 'حذف الملاحظة';
+$lang['zip_invoice'] = 'مجموعة فواتير';
+$lang['zip_proposal'] = 'رقم العرض';
+$lang['zip_estimate'] = 'رقم عرض السعر';
+$lang['zip_payment'] = 'رقم الدفع';
+$lang['from_date'] = 'من تاريخ';
+$lang['to_date'] = 'الى تاريخ';
+$lang['undefined_client'] = 'غير محدد';
+
+
+/* End of file client_lang.php */
+/* Location: ./application/language/arabic/client_lang.php */
